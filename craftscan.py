@@ -27,3 +27,4 @@ if ',' in targets:
 
 else:
 	scan(targets,ports)
+jody kntl
